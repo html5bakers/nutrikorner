@@ -1,0 +1,370 @@
+{% if template.name == "index" %}
+  {% if customer %}
+        {% capture my_variable2 %}logged in{% endcapture %}
+      {% else %}
+        {% capture my_variable2 %}guest{% endcapture %}
+  {% endif %}
+  <script>
+  window.adobeDataLayer.push({
+    "event":"landed",
+    "eventInfo":{
+        "eventName":"landed"
+    },
+    "custData":{
+        "custId":"{{ customer.id }}",
+        "loginStatus":"{{ my_varaible2 }}"
+    },
+    "page":{
+        "pageName":"Home",
+        "pageType":"Home",
+        "language":"en_IN"
+    }
+});
+  </script>
+{% endif %}
+{% if request.path == routes.account_login_url %}
+      {% if customer %}
+        {% capture my_variable %}logged in{% endcapture %}
+      {% else %}
+        {% capture my_variable %}guest{% endcapture %}
+        {% endif %}
+      <script>
+                window.adobeDataLayer.push = ({
+            "event":"landed",
+            "eventInfo":{
+                "eventName":"landed"
+            },
+             "custData":{ 
+                "custId":"{{ customer.id }}",
+                "loginStatus":"{{ my_variable }}"
+            },
+            "page":{
+                "pageName":"Login",
+                "pageType":"Login",
+                "language":"en_IN"
+               
+            }
+        });
+
+      </script>
+{% endif %}
+{% if request.path == routes.account_login_url %}
+      {% if customer %}
+       <script>
+                window.adobeDataLayer.push = ({
+          "event":"login",
+          "eventInfo":{
+              "eventName":"login"
+          },
+          "linkInfo":{
+              "linkName":"Login Success",
+              "linkPosition":"Body",
+              "linkType":"Button"
+          },
+          "custData":{
+              "custId":"{{ customer.id }}",
+              "loginStatus":"logged in"
+          },
+          "page":{
+               "pageName":"Login",
+                "pageType":"Login",
+                "language":"en_IN"
+                 }
+      });
+
+        </script> 
+      
+        {% endif %}
+      
+       {% endif %}
+{% if request.path == routes.account_register_url %}
+      <script>
+            window.adobeDataLayer.push = ({
+          "event":"landed",
+          "eventInfo":{
+              "eventName":"landed"
+          },
+          "custData":{
+              "custId":"{{ customer.id }}",
+              "loginStatus":"guest"
+          },
+          "page":{
+              "pageName":"Sign Up",
+              "pageType":"Login",
+              "language":"en_IN"
+             
+          }
+      });
+      </script>
+      {% if form.posted_successfully? %}  
+       <script>
+          window.adobeDataLayer.push = ({
+            "event":"signup",
+            "eventInfo":{
+                "eventName":"signup"
+               },
+            "linkInfo":{
+                "linkName":"Signup",
+                "linkPosition":"Body",
+                "linkType":"Button"
+            },
+            "custData":{
+                "custId":"{{ customer.id }}",
+                "loginStatus":"logged in"
+            },
+            "page":{
+                "pageName":"{{ template.name }}",
+                "pageType":"{{ template.name }}",
+                "language":"en_IN"
+             }
+        });
+        </script>
+        {% else %}
+        <script>
+          window.adobeDataLayer.push = ({
+            "event":"signup",
+            "eventInfo":{
+                "eventName":"signup"
+            },
+            "linkInfo":{
+                "linkName":"Signup",
+                "linkPosition":"Body",
+                "linkType":"Button"
+            },
+            "custData":{
+                "custId":"{{ customer.id }}",
+                "loginStatus":"guest"
+            },
+            "page":{
+                "pageName":"{{ template.name }}",
+                "pageType":"{{ template.name }}",
+                "language":"en_IN"
+               
+            },
+            "errors":[
+              {% for error in form.errors %}}
+              {% if forloop.last %}
+             "errorTracking":{
+                "errorName":"{{ form.errors.messages[error] }}",	
+                "errorType":"{{ form.errors.messages[error] }}"	
+        }
+               {% else %}
+               "errorTracking":{
+                "errorName":"{{ form.errors.messages[error] }}",	
+                "errorType":"{{ form.errors.messages[error] }}"	
+        },
+                 {% endif %}
+         ]      
+        });
+               {% endfor %}
+        </script>
+      {% endif %}
+    
+  {% endif %}
+  {% if request.path == routes.account_recover_url %}
+    <script>
+      window.adobeDataLayer.push = ({
+    "event":"landed",
+    "eventInfo":{
+        "eventName":"landed"
+    },
+     "custData":{
+        "custId":"{{ customer.id }}",
+        "loginStatus":"guest"
+    },
+    "page":{
+        "pageName":"Reset Your Password",
+        "pageType":"Login",
+        "language":"en_IN"
+       
+    }
+});
+
+    </script>
+    {% endif %}
+{% if template.name == 'collection' %}
+  {% if customer %}
+        {% capture my_variable1 %}logged in{% endcapture %}
+      {% else %}
+        {% capture my_variable1 %}guest{% endcapture %}
+        {% endif %}
+<script>
+  window.adobeDataLayer.push({
+    "event":"landed",
+    "eventInfo":{
+        "eventName":"landed"
+    },
+    "custData":{
+        "custId":"{{ customer.id }}",
+        "loginStatus":"{{ my_variable1 }}”
+    },
+    "page":{
+        "pageName":"PLP",
+        "pageType":"PLP",
+        "language":"en_IN",
+        "productCount":"{{ collection.all_products_count }}",
+        "pageCategory":"{{ collection.title }}",
+    },
+   "filter":{ 
+        "filterName":[""], 
+        "inStock":"", 
+        "price":"",
+        "filterAction":""
+   },
+   "product":[ 
+          {% for product in collections[collection.handle].products %}
+            {%- for value in product.options_by_name['Available in'].values %}
+            {% assign val= value %}
+            {%- endfor %}
+          {% if forloop.last %}
+           "{{ forloop.index | minus: 1 }}":{
+          "productName":"{{ product.title }}",
+          "productCategory":"{{ collection.title }}",
+          "productId":"{{ product.id }}",
+          "productSize":"{{ val }}",
+          "productSalePrice":"{{ product.price | money_without_currency }}",
+          "productDiscountedPrice":"{{ product.compare_at_price | money_without_currency }}",
+          "discountPercentage":"{{ product.compare_at_price_max | minus: product.price | times: 100.0 | divided_by: product.compare_at_price_max | money_without_currency | times: 100 | remove: '.0'}}",  
+          "productInStock":"{{ product.available }}"  
+         }
+        {% else %}
+      "{{ forloop.index | minus: 1 }}":{
+          "productName":"{{ product.title }}",
+          "productCategory":"{{ collection.title }}",
+          "productId":"{{ product.id }}",
+          "productSize":"{{ val }}",
+          "productSalePrice":"{{ product.price | money_without_currency }}",
+          "productDiscountedPrice":"{{ product.compare_at_price | money_without_currency }}",
+          "discountPercentage":"{{ product.compare_at_price_max | minus: product.price | times: 100.0 | divided_by: product.compare_at_price_max | money_without_currency | times: 100 | remove: '.0'}}",  
+          "productInStock":"{{ product.available }}"  
+         },
+        {% endif %}
+       {% endfor %}
+    ]
+});
+</script>
+  {% endif %}
+
+{% if template.name == 'product' %}
+  {% if customer %}
+        {% capture var %}logged in{% endcapture %}
+      {% else %}
+        {% capture var %}guest{% endcapture %}
+        {% endif %}
+  {% assign p = product.selected_or_first_available_variant %}
+  {%- for value in product.options_by_name['Available in'].values %}
+            {% assign value= value %}
+            {%- endfor %}
+  
+  {% for c in product.collections %}
+    {% if forloop.last %}
+    {% assign b= c.title %}
+    {% else %}
+      {% assign b= c.title | append : "," %}
+    {% endif %}
+    {% assign a = a | append: b  %}
+    {% endfor %}
+   {%- for value in product.options_by_name['Available in'].values %}
+            {% assign val= value %}
+            {%- endfor %}
+  {% if product.available %}
+   {% assign t= yes %}
+      {% else %}  
+    {% assign t= no  %}
+  {% endif %}              
+  <script>
+    window.adobeDataLayer.push = ({
+    "event":"landed",
+    "eventInfo":{
+        "eventName":"landed"
+    },
+    "custData":{
+        "custId":"{{ customer.id }}",
+        "loginStatus":"{{ var }}"
+    },
+    "page":{
+        "pageName":"PDP",
+        "pageType":"PDP",
+        "language":"en_IN"
+    },
+        "product":[
+       "0":{
+          "productName":"{{ product.title }}",
+          "productCategory":["{{ a }}"],
+          "productId":"{{ product.id }}",
+          "productSize":"{{ val }}",
+          "productSalePrice":"{{ product.price | money_without_currency }}",
+          "discountPercentage":"{{ product.compare_at_price_max | minus: product.price | times: 100.0 | divided_by: product.compare_at_price_max | money_without_currency | times: 100 | remove: '.0'}}",  
+          "productQuantity":"{{ p.inventory_quantity }}"
+          "productInStock":"{{ t }}"
+        }]
+});
+  </script>
+{% endif %}
+<script>
+{% if page.handle contains "privacy-policy" %}
+  {% if customer %}
+    {% assign priv="logged in" %}
+  {% else %}
+    {% assign priv="guest" %}
+  {% endif %}
+  
+          window.adobeDataLayer.push = ({
+            "event":"landed",
+            "eventInfo":{
+                "eventName":"landed"
+            },
+            "custData":{
+                "custId":"{{ customer.id }}",
+                "loginStatus":"{{ priv }}"
+            },
+            "page":{
+                "pageName":"Privacy Policy",
+                "pageType":"Privacy Policy",
+                "language":"en_IN",
+                }
+        });
+{% elsif page.handle contains "refund-policy" %}
+    {% if customer %}
+    {% assign ref="logged in" %}
+  {% else %}
+    {% assign ref="guest" %}
+  {% endif %}
+            window.adobeDataLayer.push=({
+              "event":"landed",
+              "eventInfo":{
+                  "eventName":"landed"
+              },
+              "custData":{
+                  "custId":"{{ customer.id }}",
+                  "loginStatus":"{{ ref }}”
+              },
+              "page":{
+                  "pageName":"Refund Policy",
+                  "pageType":"Refund Policy",
+                  "language":"en_IN",
+              }
+          });
+{% elsif page.handle contains "terms-and-conditions" %}
+  {% if customer %}
+    {% assign term="logged in" %}
+  {% else %}
+    {% assign term="guest" %}
+  {% endif %}
+                window.adobeDataLayer.push = ({
+                  "event":"landed",
+                  "eventInfo":{
+                      "eventName":"landed"
+                  },
+                  "custData":{
+                      "custId":"{{ customer.id }}",
+                      "loginStatus":"{{ term }}"
+                  },
+                  "page":{
+                      "pageName":"Terms and Conditions",
+                      "pageType":"Terms and Conditions",
+                      "language":"en_IN",
+                  }
+              });
+{% endif %}
+ </script> 
