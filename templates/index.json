@@ -352,7 +352,7 @@
     "79b8b668-d672-4b41-9391-3c72e0f2a47f": {
       "type": "section-featured-collection",
       "settings": {
-        "collection": "new-launches",
+        "collection": "new-launches-old1",
         "limit": 5,
         "number_of_items": 5,
         "text_alignment": "start",
