@@ -1,1 +1,142 @@
-{"sections":{"breadcrumbs":{"type":"breadcrumbs","settings":{"hide_mobile":false}},"ec7a09b8-7582-489f-92d1-11175dd2323e":{"type":"section-slideshow","disabled":true,"blocks":{"template--16678493651199__ec7a09b8-7582-489f-92d1-11175dd2323e-1677613422bc0e7ccf-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/NK_PerformanceAd_DryFruitsSale_2160x720_v002.jpg","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/all","show_link":false,"title_size_mobile":"mobile-size-18"}}},"block_order":["template--16678493651199__ec7a09b8-7582-489f-92d1-11175dd2323e-1677613422bc0e7ccf-0"],"settings":{"height":"m","width":"wide","autoplay":false,"autoplay_seconds":3,"enable_controls":false,"height_mobile":"xs","spacing_desktop":50,"spacing_mobile":30}},"b746c46b-b160-4f6c-8e88-9b5d1f069ba7":{"type":"section-collection-list","disabled":true,"settings":{"collections":["tata-tea-premium","coffee-1","dry-fruits","juice-water","poha-besan","pulses","ready-to-cook-1","ready-to-eat-1","salt-spices"],"image_ratio":"square","fill_images":true,"layout":"slider","number_of_items":8,"text_alignment":"start","title_size":"h1","title":"Collection list","link_text":"View all","link_url":"shopify:\/\/collections","button_color_palette":"accent","show_link":true,"collection_title_size":"p","spacing_desktop":50,"spacing_mobile":30}},"main-collection":{"type":"main-collection","blocks":{"title":{"type":"title","settings":{"text_alignment":"left"}},"423fb7f6-2c97-4420-8211-d45378349d2a":{"type":"description","settings":{"text_alignment":"left","enable_read_more":true}},"sorting":{"type":"sorting","settings":{}},"product_grid":{"type":"product_grid","settings":{}}},"block_order":["title","423fb7f6-2c97-4420-8211-d45378349d2a","sorting","product_grid"],"settings":{"pagination_qty":12,"pagination_type":"pages","show_amount_of_products_in_collection":true,"productview_type":"grid","products_per_row":3,"show_collection_image":false,"collection1":"{{ collection.metafields.custom.link_to_another_collection.value }}","img":"{{ collection.metafields.custom.image_to_the_link.value }}","product_count":10,"enable_filters":false,"enable_menu":true,"filters_menu_alignment":"left","filter_menu":"footer-menu-2","filter_sticky":true,"filters_show_more_limit":7,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":true,"enable_quick_buy_compact":false,"products_per_row_mobile":"2","filter_mobile_sticky":false}}},"order":["breadcrumbs","ec7a09b8-7582-489f-92d1-11175dd2323e","b746c46b-b160-4f6c-8e88-9b5d1f069ba7","main-collection"]}
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "hide_mobile": false
+      }
+    },
+    "ec7a09b8-7582-489f-92d1-11175dd2323e": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--16678493651199__ec7a09b8-7582-489f-92d1-11175dd2323e-1677613422bc0e7ccf-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NK_PerformanceAd_DryFruitsSale_2160x720_v002.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "template--16678493651199__ec7a09b8-7582-489f-92d1-11175dd2323e-1677613422bc0e7ccf-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "m",
+        "width": "wide",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "enable_controls": false,
+        "height_mobile": "xs",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "b746c46b-b160-4f6c-8e88-9b5d1f069ba7": {
+      "type": "section-collection-list",
+      "disabled": true,
+      "settings": {
+        "collections": [
+          "tata-tea-premium",
+          "coffee-1",
+          "dry-fruits",
+          "juice-water",
+          "poha-besan",
+          "pulses",
+          "ready-to-cook-1",
+          "ready-to-eat-old",
+          "salt-spices"
+        ],
+        "image_ratio": "square",
+        "fill_images": true,
+        "layout": "slider",
+        "number_of_items": 8,
+        "text_alignment": "start",
+        "title_size": "h1",
+        "title": "Collection list",
+        "link_text": "View all",
+        "link_url": "shopify:\/\/collections",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "collection_title_size": "p",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_alignment": "left"
+          }
+        },
+        "423fb7f6-2c97-4420-8211-d45378349d2a": {
+          "type": "description",
+          "settings": {
+            "text_alignment": "left",
+            "enable_read_more": true
+          }
+        },
+        "sorting": {
+          "type": "sorting",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "423fb7f6-2c97-4420-8211-d45378349d2a",
+        "sorting",
+        "product_grid"
+      ],
+      "settings": {
+        "pagination_qty": 12,
+        "pagination_type": "pages",
+        "show_amount_of_products_in_collection": true,
+        "productview_type": "grid",
+        "products_per_row": 3,
+        "show_collection_image": false,
+        "collection1": "{{ collection.metafields.custom.link_to_another_collection.value }}",
+        "img": "{{ collection.metafields.custom.image_to_the_link.value }}",
+        "product_count": 10,
+        "enable_filters": false,
+        "enable_menu": true,
+        "filters_menu_alignment": "left",
+        "filter_menu": "footer-menu-2",
+        "filter_sticky": true,
+        "filters_show_more_limit": 7,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": true,
+        "enable_quick_buy_compact": false,
+        "products_per_row_mobile": "2",
+        "filter_mobile_sticky": false
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "ec7a09b8-7582-489f-92d1-11175dd2323e",
+    "b746c46b-b160-4f6c-8e88-9b5d1f069ba7",
+    "main-collection"
+  ]
+}

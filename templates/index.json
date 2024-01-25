@@ -170,7 +170,7 @@
           "poha-besan",
           "salt-spices",
           "ready-to-cook-1",
-          "ready-to-eat-1",
+          "ready-to-eat-old",
           "dry-fruits",
           "plant-based-meat",
           "combo",
@@ -521,7 +521,7 @@
     "6761e5ce-8497-49f3-afb3-6ef780de5fdd": {
       "type": "section-featured-collection",
       "settings": {
-        "collection": "ready-to-eat-1",
+        "collection": "ready-to-eat-old",
         "limit": 5,
         "number_of_items": 5,
         "text_alignment": "start",
