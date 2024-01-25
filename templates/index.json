@@ -1,1 +1,868 @@
-{"sections":{"770b6e69-3227-4a76-af27-c0cda6dfc760":{"type":"section-slideshow","blocks":{"template--16678493716735__770b6e69-3227-4a76-af27-c0cda6dfc760-167681813639e1108b-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Welcome_to_Nutrikorner_1920_x_520px_1.png","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"https:\/\/www.tatanutrikorner.com\/collections\/all-products","show_link":true,"image_mobile":"shopify:\/\/shop_images\/Welcome_to_Nutrikorner_434_x_450px_2.png","title_size_mobile":"mobile-size-18"}},"d850dce8-ca03-4bda-93f0-b379ac297452":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Tata-Nutrikorner-desktop-banner-31-07-23-1280x382px-Final-01.jpg","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"https:\/\/www.tatanutrikorner.com\/collections\/saffron","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Tata-Nutrikorner-mobile-banner-31-07-23-416x540px-Final-01-01.jpg","title_size_mobile":"mobile-size-18"}},"b5609277-5707-4d9e-b3c6-3aa6291ffdee":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Sonnets_Banner_1920x520_2_1.png","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/sonnets","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Sonnets_Banner_434x450_1.png","title_size_mobile":"mobile-size-18"}},"ea1774b4-0896-4f70-b7f3-67a57d8e9bc1":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Welcome_to_nutrikorner_banner_2.jpg","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/organic","show_link":true,"image_mobile":"shopify:\/\/shop_images\/Welcome_to_Nutrikorner_mobile_banner.jpg","title_size_mobile":"mobile-size-18"}},"d4286fd0-3e76-4d7a-a810-f737aab61c3e":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Sonnets_Banner_1920x520_1.jpg","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/sonnets","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Sonnets_Banner_434x450_1.jpg","title_size_mobile":"mobile-size-18"}},"c3a6c9df-379a-4dd1-9707-006c703287f7":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Organic-pulses-1920-x-520px_1.gif","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/organic","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Organic-pulses-434-x-450px.gif","title_size_mobile":"mobile-size-18"}},"1a5493a9-3f2e-49d6-9c89-6573acee9ea5":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/NK_TataTeaPremium_HomePage_Banner_Desktop_FInal_1_1_d874ebc9-93d3-4d78-91b6-43dd1ee6846f.jpg","layout":"background","overlay_opacity":0,"color_palette":"light_gradient","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"https:\/\/www.tatanutrikorner.com\/products\/tata-tea-pr-leaf-500-gm-11030202?_pos=1&_psq=tata+tea+premium&_ss=e&_v=1.0","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Banner_Mobile_verison.jpg","title_size_mobile":"mobile-size-18"}}},"block_order":["template--16678493716735__770b6e69-3227-4a76-af27-c0cda6dfc760-167681813639e1108b-0","d850dce8-ca03-4bda-93f0-b379ac297452","b5609277-5707-4d9e-b3c6-3aa6291ffdee","ea1774b4-0896-4f70-b7f3-67a57d8e9bc1","d4286fd0-3e76-4d7a-a810-f737aab61c3e","c3a6c9df-379a-4dd1-9707-006c703287f7","1a5493a9-3f2e-49d6-9c89-6573acee9ea5"],"settings":{"height":"s","width":"boxed","autoplay":true,"autoplay_seconds":3,"enable_controls":true,"height_mobile":"m","spacing_desktop":60,"spacing_mobile":30}},"1660291177d9f45101":{"type":"section-collection-list","settings":{"collections":["tata-tea-premium","coffee","pulses","poha-besan","salt-spices","ready-to-cook-1","ready-to-eat-1","dry-fruits","plant-based-meat","combo","himalyan-elevation","saffron","jam-preserves"],"image_ratio":"portrait","fill_images":false,"layout":"rows","number_of_items":8,"text_alignment":"start","title_size":"h2","title":"Popular Categories","link_text":"","link_url":"","button_color_palette":"accent","show_link":false,"collection_title_size":"p","spacing_desktop":40,"spacing_mobile":30}},"1660291161fe2caafb":{"type":"section-gallery","blocks":{"1660291161347c9da8-0":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/922x300.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-start","title_size":"h1","title":"","text":"","link_text":"","link_url":"","show_link":false,"image_mobile":"shopify:\/\/shop_images\/296x325.png","title_size_mobile":"mobile-size-18"}},"485707ba-3348-4a58-abd4-95af9a6ed6de":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/dryfruit2.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"","show_link":false,"title_size_mobile":"mobile-size-18"}},"1660291161347c9da8-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Sub_Banner_-_NK.jpg","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/saffron","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Sub_Banner_-_NK.jpg","title_size_mobile":"mobile-size-18"}},"1660291161347c9da8-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/NK_Bannerx3.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"https:\/\/www.tatanutrikorner.com\/collections\/all-products","show_link":false,"image_mobile":"shopify:\/\/shop_images\/NK_Bannerx3.png","title_size_mobile":"mobile-size-18"}},"73982cac-e9bf-4d8b-8b27-6f00f377b465":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Tetley_banner_revised_300x250_e52373d9-3e93-4d62-9a66-39305ef9f38f.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/tetley","show_link":false,"image_mobile":"shopify:\/\/shop_images\/Tetley_banner_revised_300x250_e52373d9-3e93-4d62-9a66-39305ef9f38f.png","title_size_mobile":"mobile-size-16"}},"4f327c06-41ce-400e-9088-7a46e420b183":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/NK_Banner_CoffeRange_1920x520_v001_fceb5f9b-73a5-466b-8f68-983f0ad01b65.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"shopify:\/\/collections\/coffee-1","show_link":false,"title_size_mobile":"mobile-size-18"}},"29933ea1-8dc0-4e60-9ec2-ade992bf428a":{"type":"image","disabled":true,"settings":{"overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h1","title":"Image banner","text":"<p>Give customers details about the banner image(s)<\/p>","link_text":"Button","link_url":"","show_link":false,"title_size_mobile":"mobile-size-18"}}},"block_order":["1660291161347c9da8-0","485707ba-3348-4a58-abd4-95af9a6ed6de","1660291161347c9da8-2","1660291161347c9da8-1","73982cac-e9bf-4d8b-8b27-6f00f377b465","4f327c06-41ce-400e-9088-7a46e420b183","29933ea1-8dc0-4e60-9ec2-ade992bf428a"],"settings":{"items_layout":"static-grid","items_width":3,"height":"size-m","width":"boxed","space_between":10,"image_zoom":false,"image_move":false,"show_content_on_hover":false,"content_on_hover_color_palette":"dark","layout_mobile":"compact","mobile_height":"size-s","spacing_desktop":40,"spacing_mobile":30}},"79b8b668-d672-4b41-9391-3c72e0f2a47f":{"type":"section-featured-collection","settings":{"collection":"new-launches-1","limit":5,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"New Launches","text":"","link_text":"View all","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"1f1a0acc-00dd-400d-8c42-5a2dd254c205":{"type":"section-featured-products","settings":{"products":["tata-sampann-100-iranian-pistachios-200-g","tata-sampann-100-pure-premium-raisins-200-g","tata-sampann-chilli-powder-500-gm-11020501","tata-sampann-toor-dal-1-kg-11020301","tata-sampann-multidal-chilla-mix-180-gm-11020301"],"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Bestsellers","text":"","link_text":"","link_url":"\/","button_color_palette":"accent","show_link":false,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"16602912025c583cc8":{"type":"section-featured-collection","settings":{"collection":"tata-tea-premium","limit":5,"number_of_items":6,"text_alignment":"start","title_size":"h2","title":"Tea","text":"<p>Experience the legacy of Tata Tea - where quality and taste come together in every sip.<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"16605537948e81aa7a":{"type":"section-image-with-products","settings":{"image":"shopify:\/\/shop_images\/Nk_Banner_TataTeaPremium_StreetChai_v001_2.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","layout":"image-left","products":["tata-tea-pr-leaf-1-kg-11020401","purani-dilli-ki-mithai-chai"],"text_position":"text-center","title_size":"h1","title":"","text":"","link_text":"","link_url":"https:\/\/www.tatanutrikorner.com\/products\/tata-tea-premium-1kg-purani-dilli-ki-mithai-chai-250g-combo","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"width_mobile":"boxed","mobile_height":"size-xs","title_size_mobile":"mobile-size-18","spacing_desktop":50,"spacing_mobile":30}},"fbc4d165-c344-430c-98d4-9e337121b506":{"type":"section-featured-collection","settings":{"collection":"coffee","limit":8,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Coffee","text":"<p>From refreshing cold brews to rich filter blends, discover your perfect cup of Tata Coffee today.<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"4f88b4d2-ae5f-4e87-a097-8ac2376981cd":{"type":"section-featured-collection","settings":{"collection":"pulses","limit":5,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Pulses","text":"<p>Unpolished pulses by Tata Sampann<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"3469871d-111b-44f0-b434-84c25e5b8798":{"type":"section-featured-collection","settings":{"collection":"ready-to-cook-1","limit":5,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Ready To Cook","text":"<p>Effortless cooking in minutes.<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"6761e5ce-8497-49f3-afb3-6ef780de5fdd":{"type":"section-featured-collection","settings":{"collection":"ready-to-eat-1","limit":5,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Ready To Eat","text":"<p>Save time, savor deliciousness with Tata Sampann Yumside's ready-to-eat meals.<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"d1d3ec2a-364a-429e-bf3f-84e80139317c":{"type":"section-featured-collection","settings":{"collection":"plant-based-meat","limit":7,"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Plant Based","text":"<p>Meatless, not tasteless. Try our plant-based meats for a deliciously sustainable alternative.<\/p>","link_text":"See All","button_color_palette":"accent","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"a0c6a0e7-a26d-4b4b-8695-95b1096a7c96":{"type":"section-featured-collection","custom_css":[],"settings":{"collection":"combo","limit":5,"number_of_items":6,"text_alignment":"start","title_size":"h2","title":"Combos","text":"","link_text":"View all","button_color_palette":"light_2","show_link":true,"enable_quick_buy_desktop":true,"enable_quick_buy_mobile":true,"enable_quick_buy_drawer":false,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"7e713e8c-a51b-4a69-802b-3b5daa4a9f65":{"type":"section-recently-viewed-products","settings":{"number_of_items":5,"text_alignment":"start","title_size":"h2","title":"Recently viewed products","enable_quick_buy_desktop":true,"enable_quick_buy_drawer":false,"enable_quick_buy_mobile":true,"enable_quick_buy_qty_selector":false,"enable_quick_buy_compact":false,"spacing_desktop":50,"spacing_mobile":30}},"16771470860df80936":{"type":"apps","blocks":{"03df6a3c-c7b3-4574-af26-6d9e2363e36e":{"type":"shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-playlist\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b","settings":{"playlist_id":"","debugging_script":""}}},"block_order":["03df6a3c-c7b3-4574-af26-6d9e2363e36e"],"disabled":true,"settings":{}},"1660291186859914cb":{"type":"section-usp-bar","blocks":{"166029118628eefa48-0":{"type":"usp","disabled":true,"settings":{"usp":"<p>Tell a unique detail about your online store<\/p>"}},"166029118628eefa48-1":{"type":"usp","settings":{"usp":"<p><strong>Free Shipping for orders above Rs 750 | Delivering in Delhi-NCR, Mumbai, Bengaluru, Chennai, Hyderabad, Ahmedabad<\/strong><\/p>"}},"166029118628eefa48-2":{"type":"usp","disabled":true,"settings":{"usp":"<p>Tell a unique detail about your online store<\/p>"}}},"block_order":["166029118628eefa48-0","166029118628eefa48-1","166029118628eefa48-2"],"settings":{"color_palette":"light","layout":"rows","autoplay":false,"autoplay_seconds":3,"show_arrows":false,"spacing_desktop":50,"spacing_mobile":30}},"00c78b7f-caed-44f7-b2c6-5a91315f9ad9":{"type":"section-promo-gallery","blocks":{"template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Street_chai_KV_Adapt3_63a32504-1a78-432f-b9be-b92be2e88558.jpg","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"\/","show_link":false,"title_size_mobile":"mobile-size-18"}},"template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Tata_tea_saffron_KV_adapt3_dd6a3b2a-7a57-4975-98d3-14a775e2a19d.png","overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"\/","show_link":false,"title_size_mobile":"mobile-size-18"}},"template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-2":{"type":"image","disabled":true,"settings":{"overlay_opacity":0,"color_palette":"white","button_color_palette":"accent","text_position":"text-center","title_size":"h2","title":"","text":"","link_text":"","link_url":"\/","show_link":false,"title_size_mobile":"mobile-size-18"}}},"block_order":["template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-0","template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-1","template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-2"],"disabled":true,"settings":{"items_width":3,"width":"boxed","space_between":16,"image_zoom":false,"layout_mobile":"rows","spacing_desktop":50,"spacing_mobile":30}},"3c2b8936-1d9c-43ad-aff4-e56d48037a77":{"type":"section-featured-product","blocks":{"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-0":{"type":"title","settings":{"layout":"title-right","title_size":"h1","show_vendor_brand":true,"show_vendor_name":true,"show_product_rating":true,"share_whatsapp":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"share_messenger":true,"share_email":true,"layout_mobile":"title-top"}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-1":{"type":"short_description","settings":{}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-2":{"type":"variant_selection","settings":{"selection_type":"dropdown","options":true,"show_variant_images":true,"show_unavailable_variants":true}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-3":{"type":"inventory","settings":{}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-4":{"type":"price","settings":{"show_tax":false}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-5":{"type":"buy_button","settings":{"show_amount_selection":true,"show_dynamic_buybutton":false,"preorder":false,"preorder_button_text":"Pre-order","preorder_label":"","preorder_label_color_palette":"light_2","preorder_show_dynamic_buybutton":false}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-6":{"type":"spacer","settings":{"height":15}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-7":{"type":"usp","disabled":true,"settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-8":{"type":"usp","disabled":true,"settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-9":{"type":"usp","settings":{"usp":"<p>Tell a unique detail about this product<\/p>"}},"template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-10":{"type":"shipping_timer","settings":{}}},"block_order":["template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-0","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-1","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-2","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-3","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-4","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-5","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-6","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-7","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-8","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-9","template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-10"],"disabled":true,"settings":{"product":"combo-of-paneer-masala-dal-tadka-masala-punjabi-chhole-masala-100g-each","show_thumbs_desktop":true,"show_thumbs_mobile":true,"images_layout":"aside","show_product_description":true,"spacing_desktop":50,"spacing_mobile":30}}},"order":["770b6e69-3227-4a76-af27-c0cda6dfc760","1660291177d9f45101","1660291161fe2caafb","79b8b668-d672-4b41-9391-3c72e0f2a47f","1f1a0acc-00dd-400d-8c42-5a2dd254c205","16602912025c583cc8","16605537948e81aa7a","fbc4d165-c344-430c-98d4-9e337121b506","4f88b4d2-ae5f-4e87-a097-8ac2376981cd","3469871d-111b-44f0-b434-84c25e5b8798","6761e5ce-8497-49f3-afb3-6ef780de5fdd","d1d3ec2a-364a-429e-bf3f-84e80139317c","a0c6a0e7-a26d-4b4b-8695-95b1096a7c96","7e713e8c-a51b-4a69-802b-3b5daa4a9f65","16771470860df80936","1660291186859914cb","00c78b7f-caed-44f7-b2c6-5a91315f9ad9","3c2b8936-1d9c-43ad-aff4-e56d48037a77"]}
+{
+  "sections": {
+    "770b6e69-3227-4a76-af27-c0cda6dfc760": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--16678493716735__770b6e69-3227-4a76-af27-c0cda6dfc760-167681813639e1108b-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Welcome_to_Nutrikorner_1920_x_520px_1.png",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.tatanutrikorner.com\/collections\/all-products",
+            "show_link": true,
+            "image_mobile": "shopify:\/\/shop_images\/Welcome_to_Nutrikorner_434_x_450px_2.png",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "d850dce8-ca03-4bda-93f0-b379ac297452": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tata-Nutrikorner-desktop-banner-31-07-23-1280x382px-Final-01.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.tatanutrikorner.com\/collections\/saffron",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Tata-Nutrikorner-mobile-banner-31-07-23-416x540px-Final-01-01.jpg",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "b5609277-5707-4d9e-b3c6-3aa6291ffdee": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sonnets_Banner_1920x520_2_1.png",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/sonnets",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Sonnets_Banner_434x450_1.png",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "ea1774b4-0896-4f70-b7f3-67a57d8e9bc1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Welcome_to_nutrikorner_banner_2.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/organic",
+            "show_link": true,
+            "image_mobile": "shopify:\/\/shop_images\/Welcome_to_Nutrikorner_mobile_banner.jpg",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "d4286fd0-3e76-4d7a-a810-f737aab61c3e": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sonnets_Banner_1920x520_1.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/sonnets",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Sonnets_Banner_434x450_1.jpg",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "c3a6c9df-379a-4dd1-9707-006c703287f7": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Organic-pulses-1920-x-520px_1.gif",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/organic",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Organic-pulses-434-x-450px.gif",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "1a5493a9-3f2e-49d6-9c89-6573acee9ea5": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NK_TataTeaPremium_HomePage_Banner_Desktop_FInal_1_1_d874ebc9-93d3-4d78-91b6-43dd1ee6846f.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.tatanutrikorner.com\/products\/tata-tea-pr-leaf-500-gm-11030202?_pos=1&_psq=tata+tea+premium&_ss=e&_v=1.0",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Banner_Mobile_verison.jpg",
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "template--16678493716735__770b6e69-3227-4a76-af27-c0cda6dfc760-167681813639e1108b-0",
+        "d850dce8-ca03-4bda-93f0-b379ac297452",
+        "b5609277-5707-4d9e-b3c6-3aa6291ffdee",
+        "ea1774b4-0896-4f70-b7f3-67a57d8e9bc1",
+        "d4286fd0-3e76-4d7a-a810-f737aab61c3e",
+        "c3a6c9df-379a-4dd1-9707-006c703287f7",
+        "1a5493a9-3f2e-49d6-9c89-6573acee9ea5"
+      ],
+      "settings": {
+        "height": "s",
+        "width": "boxed",
+        "autoplay": true,
+        "autoplay_seconds": 3,
+        "enable_controls": true,
+        "height_mobile": "m",
+        "spacing_desktop": 60,
+        "spacing_mobile": 30
+      }
+    },
+    "1660291177d9f45101": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "tata-tea-premium",
+          "coffee",
+          "pulses",
+          "poha-besan",
+          "salt-spices",
+          "ready-to-cook-1",
+          "ready-to-eat-1",
+          "dry-fruits",
+          "plant-based-meat",
+          "combo",
+          "himalyan-elevation",
+          "saffron",
+          "jam-preserves"
+        ],
+        "image_ratio": "portrait",
+        "fill_images": false,
+        "layout": "rows",
+        "number_of_items": 8,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Popular Categories",
+        "link_text": "",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_size": "p",
+        "spacing_desktop": 40,
+        "spacing_mobile": 30
+      }
+    },
+    "1660291161fe2caafb": {
+      "type": "section-gallery",
+      "blocks": {
+        "1660291161347c9da8-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/922x300.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-start",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/296x325.png",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "485707ba-3348-4a58-abd4-95af9a6ed6de": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dryfruit2.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "1660291161347c9da8-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sub_Banner_-_NK.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/saffron",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Sub_Banner_-_NK.jpg",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "1660291161347c9da8-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NK_Bannerx3.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "https:\/\/www.tatanutrikorner.com\/collections\/all-products",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/NK_Bannerx3.png",
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "73982cac-e9bf-4d8b-8b27-6f00f377b465": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tetley_banner_revised_300x250_e52373d9-3e93-4d62-9a66-39305ef9f38f.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/tetley",
+            "show_link": false,
+            "image_mobile": "shopify:\/\/shop_images\/Tetley_banner_revised_300x250_e52373d9-3e93-4d62-9a66-39305ef9f38f.png",
+            "title_size_mobile": "mobile-size-16"
+          }
+        },
+        "4f327c06-41ce-400e-9088-7a46e420b183": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NK_Banner_CoffeRange_1920x520_v001_fceb5f9b-73a5-466b-8f68-983f0ad01b65.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/coffee-1",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "29933ea1-8dc0-4e60-9ec2-ade992bf428a": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "Image banner",
+            "text": "<p>Give customers details about the banner image(s)<\/p>",
+            "link_text": "Button",
+            "link_url": "",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "1660291161347c9da8-0",
+        "485707ba-3348-4a58-abd4-95af9a6ed6de",
+        "1660291161347c9da8-2",
+        "1660291161347c9da8-1",
+        "73982cac-e9bf-4d8b-8b27-6f00f377b465",
+        "4f327c06-41ce-400e-9088-7a46e420b183",
+        "29933ea1-8dc0-4e60-9ec2-ade992bf428a"
+      ],
+      "settings": {
+        "items_layout": "static-grid",
+        "items_width": 3,
+        "height": "size-m",
+        "width": "boxed",
+        "space_between": 10,
+        "image_zoom": false,
+        "image_move": false,
+        "show_content_on_hover": false,
+        "content_on_hover_color_palette": "dark",
+        "layout_mobile": "compact",
+        "mobile_height": "size-s",
+        "spacing_desktop": 40,
+        "spacing_mobile": 30
+      }
+    },
+    "79b8b668-d672-4b41-9391-3c72e0f2a47f": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "new-launches",
+        "limit": 5,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "New Launches",
+        "text": "",
+        "link_text": "View all",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "1f1a0acc-00dd-400d-8c42-5a2dd254c205": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "tata-sampann-100-iranian-pistachios-200-g",
+          "tata-sampann-100-pure-premium-raisins-200-g",
+          "tata-sampann-chilli-powder-500-gm-11020501",
+          "tata-sampann-toor-dal-1-kg-11020301",
+          "tata-sampann-multidal-chilla-mix-180-gm-11020301"
+        ],
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Bestsellers",
+        "text": "",
+        "link_text": "",
+        "link_url": "\/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "16602912025c583cc8": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "tata-tea-premium",
+        "limit": 5,
+        "number_of_items": 6,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Tea",
+        "text": "<p>Experience the legacy of Tata Tea - where quality and taste come together in every sip.<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "16605537948e81aa7a": {
+      "type": "section-image-with-products",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nk_Banner_TataTeaPremium_StreetChai_v001_2.png",
+        "overlay_opacity": 0,
+        "color_palette": "white",
+        "button_color_palette": "accent",
+        "layout": "image-left",
+        "products": [
+          "tata-tea-pr-leaf-1-kg-11020401",
+          "purani-dilli-ki-mithai-chai"
+        ],
+        "text_position": "text-center",
+        "title_size": "h1",
+        "title": "",
+        "text": "",
+        "link_text": "",
+        "link_url": "https:\/\/www.tatanutrikorner.com\/products\/tata-tea-premium-1kg-purani-dilli-ki-mithai-chai-250g-combo",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "width_mobile": "boxed",
+        "mobile_height": "size-xs",
+        "title_size_mobile": "mobile-size-18",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "fbc4d165-c344-430c-98d4-9e337121b506": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "coffee",
+        "limit": 8,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Coffee",
+        "text": "<p>From refreshing cold brews to rich filter blends, discover your perfect cup of Tata Coffee today.<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "4f88b4d2-ae5f-4e87-a097-8ac2376981cd": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "pulses",
+        "limit": 5,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Pulses",
+        "text": "<p>Unpolished pulses by Tata Sampann<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "3469871d-111b-44f0-b434-84c25e5b8798": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "ready-to-cook-1",
+        "limit": 5,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Ready To Cook",
+        "text": "<p>Effortless cooking in minutes.<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "6761e5ce-8497-49f3-afb3-6ef780de5fdd": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "ready-to-eat-1",
+        "limit": 5,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Ready To Eat",
+        "text": "<p>Save time, savor deliciousness with Tata Sampann Yumside's ready-to-eat meals.<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "d1d3ec2a-364a-429e-bf3f-84e80139317c": {
+      "type": "section-featured-collection",
+      "settings": {
+        "collection": "plant-based-meat",
+        "limit": 7,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Plant Based",
+        "text": "<p>Meatless, not tasteless. Try our plant-based meats for a deliciously sustainable alternative.<\/p>",
+        "link_text": "See All",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "a0c6a0e7-a26d-4b4b-8695-95b1096a7c96": {
+      "type": "section-featured-collection",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "collection": "combo",
+        "limit": 5,
+        "number_of_items": 6,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Combos",
+        "text": "",
+        "link_text": "View all",
+        "button_color_palette": "light_2",
+        "show_link": true,
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "7e713e8c-a51b-4a69-802b-3b5daa4a9f65": {
+      "type": "section-recently-viewed-products",
+      "settings": {
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h2",
+        "title": "Recently viewed products",
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_qty_selector": false,
+        "enable_quick_buy_compact": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "16771470860df80936": {
+      "type": "apps",
+      "blocks": {
+        "03df6a3c-c7b3-4574-af26-6d9e2363e36e": {
+          "type": "shopify:\/\/apps\/reelup-shoppable-videos-reels\/blocks\/reelup-playlist\/a8ec9e4d-d192-44f7-9c23-595f9ee7dd5b",
+          "settings": {
+            "playlist_id": "",
+            "debugging_script": ""
+          }
+        }
+      },
+      "block_order": [
+        "03df6a3c-c7b3-4574-af26-6d9e2363e36e"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1660291186859914cb": {
+      "type": "section-usp-bar",
+      "blocks": {
+        "166029118628eefa48-0": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about your online store<\/p>"
+          }
+        },
+        "166029118628eefa48-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>Free Shipping for orders above Rs 750 | Delivering in Delhi-NCR, Mumbai, Bengaluru, Chennai, Hyderabad, Ahmedabad<\/strong><\/p>"
+          }
+        },
+        "166029118628eefa48-2": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about your online store<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166029118628eefa48-0",
+        "166029118628eefa48-1",
+        "166029118628eefa48-2"
+      ],
+      "settings": {
+        "color_palette": "light",
+        "layout": "rows",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "show_arrows": false,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "00c78b7f-caed-44f7-b2c6-5a91315f9ad9": {
+      "type": "section-promo-gallery",
+      "blocks": {
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Street_chai_KV_Adapt3_63a32504-1a78-432f-b9be-b92be2e88558.jpg",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "\/",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tata_tea_saffron_KV_adapt3_dd6a3b2a-7a57-4975-98d3-14a775e2a19d.png",
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "\/",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        },
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h2",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "\/",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-0",
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-1",
+        "template--16678493716735__00c78b7f-caed-44f7-b2c6-5a91315f9ad9-1681206001c7efb9b0-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "items_width": 3,
+        "width": "boxed",
+        "space_between": 16,
+        "image_zoom": false,
+        "layout_mobile": "rows",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "3c2b8936-1d9c-43ad-aff4-e56d48037a77": {
+      "type": "section-featured-product",
+      "blocks": {
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-0": {
+          "type": "title",
+          "settings": {
+            "layout": "title-right",
+            "title_size": "h1",
+            "show_vendor_brand": true,
+            "show_vendor_name": true,
+            "show_product_rating": true,
+            "share_whatsapp": true,
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true,
+            "share_messenger": true,
+            "share_email": true,
+            "layout_mobile": "title-top"
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-1": {
+          "type": "short_description",
+          "settings": {
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-2": {
+          "type": "variant_selection",
+          "settings": {
+            "selection_type": "dropdown",
+            "options": true,
+            "show_variant_images": true,
+            "show_unavailable_variants": true
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-3": {
+          "type": "inventory",
+          "settings": {
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-4": {
+          "type": "price",
+          "settings": {
+            "show_tax": false
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-5": {
+          "type": "buy_button",
+          "settings": {
+            "show_amount_selection": true,
+            "show_dynamic_buybutton": false,
+            "preorder": false,
+            "preorder_button_text": "Pre-order",
+            "preorder_label": "",
+            "preorder_label_color_palette": "light_2",
+            "preorder_show_dynamic_buybutton": false
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-6": {
+          "type": "spacer",
+          "settings": {
+            "height": 15
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-7": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-8": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-9": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p>Tell a unique detail about this product<\/p>"
+          }
+        },
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-10": {
+          "type": "shipping_timer",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-0",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-1",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-2",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-3",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-4",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-5",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-6",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-7",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-8",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-9",
+        "template--16678493716735__3c2b8936-1d9c-43ad-aff4-e56d48037a77-168249196714867532-10"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "combo-of-paneer-masala-dal-tadka-masala-punjabi-chhole-masala-100g-each",
+        "show_thumbs_desktop": true,
+        "show_thumbs_mobile": true,
+        "images_layout": "aside",
+        "show_product_description": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    }
+  },
+  "order": [
+    "770b6e69-3227-4a76-af27-c0cda6dfc760",
+    "1660291177d9f45101",
+    "1660291161fe2caafb",
+    "79b8b668-d672-4b41-9391-3c72e0f2a47f",
+    "1f1a0acc-00dd-400d-8c42-5a2dd254c205",
+    "16602912025c583cc8",
+    "16605537948e81aa7a",
+    "fbc4d165-c344-430c-98d4-9e337121b506",
+    "4f88b4d2-ae5f-4e87-a097-8ac2376981cd",
+    "3469871d-111b-44f0-b434-84c25e5b8798",
+    "6761e5ce-8497-49f3-afb3-6ef780de5fdd",
+    "d1d3ec2a-364a-429e-bf3f-84e80139317c",
+    "a0c6a0e7-a26d-4b4b-8695-95b1096a7c96",
+    "7e713e8c-a51b-4a69-802b-3b5daa4a9f65",
+    "16771470860df80936",
+    "1660291186859914cb",
+    "00c78b7f-caed-44f7-b2c6-5a91315f9ad9",
+    "3c2b8936-1d9c-43ad-aff4-e56d48037a77"
+  ]
+}
