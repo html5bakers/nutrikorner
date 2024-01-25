@@ -173,7 +173,7 @@
           "ready-to-eat-old",
           "dry-fruits",
           "plant-based-meat",
-          "combo",
+          "combo-old",
           "himalyan-elevation",
           "saffron",
           "jam-preserves"
@@ -568,7 +568,7 @@
 
       ],
       "settings": {
-        "collection": "combo",
+        "collection": "combo-old",
         "limit": 5,
         "number_of_items": 6,
         "text_alignment": "start",
