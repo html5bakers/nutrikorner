@@ -169,7 +169,7 @@
           "pulses",
           "poha-besan",
           "salt-spices",
-          "ready-to-cook-1",
+          "ready-to-cook-old",
           "ready-to-eat-old",
           "dry-fruits",
           "plant-based-meat",
@@ -499,7 +499,7 @@
     "3469871d-111b-44f0-b434-84c25e5b8798": {
       "type": "section-featured-collection",
       "settings": {
-        "collection": "ready-to-cook-1",
+        "collection": "ready-to-cook-old",
         "limit": 5,
         "number_of_items": 5,
         "text_alignment": "start",
